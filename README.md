@@ -32,6 +32,10 @@ El proyecto consiste en una aplicación web donde puedes:
 3. **Reiniciar**: Si deseas realizar otro sorteo, simplemente actualiza la página.
 
 ## 🏙️ **Interfaz del juego**
+![Captura de pantalla 1](assets/interfaz-juego.png)  
+*Interfaz principal del juego.*
 
+---
 
-Gracias por leer 🩵
+## 🎉 ¡Espero que disfrutes el proyecto!
+
